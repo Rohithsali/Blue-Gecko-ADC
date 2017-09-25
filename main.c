@@ -1,6 +1,6 @@
 
 
-/* Board headers */
+/* Board */
 #include "boards.h"
 #include "ble-configuration.h"
 #include "board_features.h"
